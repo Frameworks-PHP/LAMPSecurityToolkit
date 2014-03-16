@@ -1,2 +1,0 @@
-WARNING! You are using the master branch of LAMPSecurityToolkit. As we are working on version 2.0, version 1.0 has
-been moved to the "v1.0" branch. If you want to continue using v1.0, please switch to that branch now!
